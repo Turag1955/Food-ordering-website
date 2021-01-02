@@ -1,0 +1,23 @@
+.card-title{
+    font-size: 20px !important;
+
+}
+.feild_error{
+    margin-top: 25px;
+    color: red;
+}
+.dashboard_p{
+    font-size: 30px;
+    color: #635959;
+
+}
+.text_color{
+    color: #635959;
+}
+.dashboard_icon{
+    font-size: 30px;
+    //margin-top: -69px;
+}
+.dashboard_title{
+        color: #9c9c9c;
+}
